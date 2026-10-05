@@ -44,7 +44,7 @@ export const AgentSimulator: React.FC = () => {
       } else if (lower.includes('kpi') || lower.includes('dashboard')) {
         reply = `The KPI Dashboard is a production Next.js + TypeScript application using Airtable as a live database. It provides real-time KPI scoring, department oversight, and employee performance management without mock data. You can test the live demo in the Projects section!`;
       } else if (lower.includes('hire') || lower.includes('role') || lower.includes('available') || lower.includes('job') || lower.includes('work')) {
-        reply = `Yes! Rafay is currently open to Full-Stack Developer, AI Engineer, AI Agent / Automation Developer roles and high-impact freelance projects. You can reach out via srafay.dev@gmail.com or the contact form below.`;
+        reply = `Yes! Rafay is currently open to Full-Stack Developer, AI Engineer, AI Agent / Automation Developer roles and high-impact freelance projects. You can reach out via srafay2021@gmail.com or the contact form below.`;
       } else if (lower.includes('different') || lower.includes('why') || lower.includes('positioning')) {
         reply = `Rafay operates by the motto: "I don't just build websites. I build intelligent digital products." He combines core Computer Science & IT fundamentals with bleeding-edge AI agents, process automations, and creative 3D video generation.`;
       } else if (lower.includes('veggie') || lower.includes('3d') || lower.includes('animation') || lower.includes('creative')) {

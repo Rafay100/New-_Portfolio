@@ -22,7 +22,7 @@ export const Footer: React.FC = () => {
               </span>
             </div>
             <p className="text-xs sm:text-sm text-[#D7E2EA]/60 font-light max-w-md">
-              Full-Stack Web Developer, AI Systems Engineer, and Creative AI Experimenter based in Karachi, Pakistan.
+              Full-Stack Web Developer, AI Prompt Engineer, and Creative AI Experimenter based in Karachi, Pakistan.
             </p>
           </div>
 
@@ -60,9 +60,6 @@ export const Footer: React.FC = () => {
         <div className="pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-mono text-[#D7E2EA]/40">
           <div>
             &copy; {new Date().getFullYear()} {PERSONAL_INFO.fullName}. All rights reserved.
-          </div>
-          <div className="flex items-center gap-2">
-            <span>Engineered with React &bull; TypeScript &bull; Tailwind &bull; Framer Motion</span>
           </div>
         </div>
       </div>

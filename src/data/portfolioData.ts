@@ -48,7 +48,7 @@ export const PERSONAL_INFO = {
     "Information Technology student at Virtual University of Pakistan (VU) crafting modern full-stack web applications, autonomous AI agents, intelligent workflows, and creative 3D visual experiences.",
   githubMain: 'https://github.com/Rafay100',
   githubSecondary: 'https://github.com/SRafay',
-  email: 'srafay.dev@gmail.com',
+  email: 'srafay2021@gmail.com',
   linkedin: 'https://linkedin.com/in/syed-abdul-rafay',
 };
 

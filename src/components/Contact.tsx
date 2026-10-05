@@ -57,7 +57,7 @@ export const Contact: React.FC = () => {
                 Get in touch directly
               </h3>
               <p className="text-xs sm:text-sm text-[#D7E2EA]/70 font-light leading-relaxed mb-8">
-                I am actively seeking full-stack and AI software engineering roles, high-impact freelance projects, and technical collaborations.
+                I am actively seeking full-stack and AI web developer roles, high-impact freelance projects, and technical collaborations.
               </p>
 
               <div className="space-y-4 mb-8">
